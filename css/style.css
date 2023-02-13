@@ -1,0 +1,148 @@
+	*{
+		margin:0;
+		padding:0;
+		box-sizing:border-box;
+	}
+	body{
+		background:#ccc;
+	}
+	.container{
+		background-color:white;
+		width:1170px;
+		margin:0 auto;
+		padding:0 20px;
+		
+	}
+	body{
+		background:;
+	}
+	.item1{
+		display:flex;
+	}
+	.item1 img{
+		width:100px;
+		height:100px;
+	}
+	.user_name{
+		padding:24px 0px 20px 60px;
+		
+	}
+	.user_name h2{
+		border-bottom:1px solid #ccc;
+		padding-right: 550px;
+		padding-bottom:5px;
+		font-size:20px;
+	}
+	.first_nav{
+		display:flex;
+		padding-top:5px;
+		
+	}
+	.nav_link{
+		display:block;
+		padding:5px 30px 5px 0;
+		list-style:none;
+		
+	}
+	.first_nav.activelink{
+		color:#000;
+	}
+	.nav_link a{
+		text-decoration:none;
+		color:#ccc;
+	}
+	.nav_link a.span{
+		color:#000;
+	}
+	.item2{
+		text-align:center;
+		background-color:#000;
+	}
+	.item2 .hlo{
+		color:#444141;
+		padding-top:40px;
+		font-size:25px;
+	}
+	.item2 h1{
+		color:#fff;
+		padding:18px 0px;
+		font-size:55px;
+	}
+	.item2 .address{
+		color:#ccc;
+		font-size:30px;
+		padding-bottom:10px;
+	}
+	.item2 button{
+		padding:20px 60px ;
+		background-color:#000;
+		color:#fff;
+		border:1px solid #ccc;
+		display: inline-block;
+        margin: 0 0 35px 0;
+	}
+	.skill_wraper{
+		   margin: 40px 60px 30px 0px;
+			border-top: 1px solid #ccc;
+			border-bottom:1px solid #ccc;
+			padding: 16px 0 30px 0;
+	}
+	.content_wraper h2{
+		font-size:30px;
+		margin:25px 0 18px 0;
+	}
+	.skilldetails{
+		margin-bottom:26px;
+		
+	}
+	.details{
+		display:flex;
+	}
+	.details img{
+		width:30px;
+		margin-right:15px;		
+	}
+	.details p{
+		font-size:14px;
+		width:70%;
+	}
+	.skill_develop{
+		width:80%;
+		display: flex ;
+		justify-content:space-between;
+	}
+	.content_wraper{
+		margin-bottom:25px;
+	}
+	
+	.education_box{
+		border-left:3px solid #ccc;
+		display:flex;
+		justify-content:space-between;
+	}
+	.education_box{
+		margin-bottom:20px;
+	}
+	.mark p{
+		padding:30px;
+		background-color:#ccc;
+		
+	}
+	.content_wraper{
+		margin-bottom:25px;
+	}
+	.project_box{
+		margin-bottom:20px;
+		border-left:3px solid #ccc;
+		padding-left:5px;
+	}
+	.icon_wraper{
+		margin-bottom:15px;
+	}
+	.icon_wraper a{
+		display:inline-block;
+		margin:0 30px 0 0;
+	}
+	.edu-con{
+		padding-left:5px;
+	}
